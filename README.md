@@ -101,7 +101,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZjIxMmJjZjUtM2NhMC00ODkzLWIyOGYtOTU5YTA0Y
 
 ## 7. Demo Video
 
-
+https://github.com/Shreyapatil1646/Business-Insights-360/blob/main/Business%20Insights%20360.mp4
 
 ---
 
